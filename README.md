@@ -13,10 +13,10 @@ MTCNN model is used for face detection and Facenet model is used to extract embe
 ```bash
   pip3 install -r requirements.txt
 ```
+
 DOWNLOAD THE MODEL and put it in the models folder:
 
-
-link to download model : ```https://drive.google.com/file/d/1g5VXawtsrMhokZaAgq33t9ZddOrW3mWO/view```
+link to download model : https://drive.google.com/file/d/1g5VXawtsrMhokZaAgq33t9ZddOrW3mWO/view
 2. Run the code :
 
 For GUI output
